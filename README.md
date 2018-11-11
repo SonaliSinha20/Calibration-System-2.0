@@ -1,0 +1,1 @@
+Contains a Calibration System which recognizes faces using opencv and finds the face with most priority in case of multipe face detection. It calclates the calibration percentage and suggests to recalibrate the camera based on these calculations.
